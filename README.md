@@ -21,4 +21,4 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
-Designed with ❤️ by [JOCalendars](https://www.jocalendars.com/years-to-months/).  
+Designed with ❤️ by [Jocalendars](https://www.jocalendars.com/years-to-months/).  
